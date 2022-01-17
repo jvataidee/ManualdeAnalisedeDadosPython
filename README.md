@@ -4,7 +4,7 @@
 </p>
 
 # João Ataíde
-<sub>*Estágiario de Geotecnologias da inPlantar  Meio Ambiente e Engenharia​</sub>
+<sub>*Cientista de dados de Imagem Esri*</sub>
 
 Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Árido (UFERSA), onde trabalhei como bolsista no Acesso à Terra Urbanizada nos projetos Smart Cities, REURBE'S, MAPA e hoje no Urbis, obtive experiências práticas e teóricas na área das geotecnologias, com ênfase em levantamento cartográfico. Após essa graduação na mesma instituição me formei em Engenharia Civil.
 
@@ -25,7 +25,6 @@ Hoje atuo como cientista de dados na Imagem – Soluções de Inteligência Geog
 ## Projetos:
 Veja os projetos publicados no meu blog:
 
-* **Classificação de Roupas usando TensorFlow:**[ Projeto](https://www.joaoataide.com/post/classificação-de-roupas-com-tensorflow)
 * **Analisar os termos mais frequentes em artigos do COVID-19:**[ Projeto](https://www.joaoataide.com/post/desafio-kaggle-covid-19)
 * **Estimativa de evapotranspiração:**[ Projeto](https://www.joaoataide.com/post/estimativa-da-evapotranspiração)
 * **Análise de ocupação irregular de Linhas de Transmissão:**[ Projeto](https://www.joaoataide.com/post/linhas-de-transmissão)
