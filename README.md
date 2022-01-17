@@ -6,15 +6,13 @@
 # João Ataíde
 <sub>*Cientista de dados de Imagem Esri*</sub>
 
-Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Árido (UFERSA), onde trabalhei como bolsista no Acesso à Terra Urbanizada nos projetos Smart Cities, REURBE'S, MAPA e hoje no Urbis, obtive experiências práticas e teóricas na área das geotecnologias, com ênfase em levantamento cartográfico. Após essa graduação na mesma instituição me formei em Engenharia Civil.
+Esse aqui é um repositório de estudo, básicamente é uma reprodução em python de um dos livros mais aclamados na análise de dados, livro Manual de Análise de Dados dos Professores Luiz Paulo Fávero e Patrícia Belfiore.
 
-Também sou especialista em Ciência de Dados pela Universidade Norte do Paraná (UNOPAR) e especialista em Geoprocessamento e Georreferenciamento (UFERSA) e hoje estou fazendo o MBA em Pesquisa Operacional e tomada de decisão (BsBr).
+**Background in:** Python, Pandas, Numpy, Mathplotlib.
 
-Fui estagiário da InPlantar Meio Ambiente, e Engenharia, neste realizamos trabalhos com técnicas e ferramentas de geoprocessamento, na aquisição, tratamento e suporte de dados e banco de dados.
+Link do livo:
+[Manual de Análise de Dados](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876/ref=asc_df_8535270876/?tag=googleshopp00-20&linkCode=df0&hvadid=379751563849&hvpos=&hvnetw=g&hvrand=12147588813208390255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074273&hvtargid=pla-864709407967&psc=1)
 
-Hoje atuo como cientista de dados na Imagem – Soluções de Inteligência Geográfica, desenvolvendo soluções que integram as capacidades analíticas e espaciais do ArcGIS com a versatilidade e acurácia dos modelos de Machine Learning e Deep Learning.
-
-**Background in:** Python, GIS, PyQGis, QGis, Machine Learning, Geoprocessamento.
 
 **Links:**
 * [Blog](https://www.joaoataide.com)
