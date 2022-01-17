@@ -13,14 +13,15 @@ Esse aqui é um repositório de estudo, básicamente é uma reprodução em pyth
 Link do livro:
 [Manual de Análise de Dados](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876/ref=asc_df_8535270876/?tag=googleshopp00-20&linkCode=df0&hvadid=379751563849&hvpos=&hvnetw=g&hvrand=12147588813208390255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074273&hvtargid=pla-864709407967&psc=1)
 
+---
 
-**Links:**
+**Contatos:**
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
 * [Medium](https://medium.com/@jooataide)
 
 
-## Projetos:
+**Projetos:**
 Veja os projetos publicados no meu blog:
 
 * **Analisar os termos mais frequentes em artigos do COVID-19:**[ Projeto](https://www.joaoataide.com/post/desafio-kaggle-covid-19)
