@@ -8,7 +8,7 @@
 
 ---
 
-Esse aqui é um repositório de estudo, básicamente é uma reprodução em python de um dos livros mais aclamados na análise de dados, livro Manual de Análise de Dados dos Professores Luiz Paulo Fávero e Patrícia Belfiore.
+Esse aqui é um repositório de estudo, básicamente é uma reprodução em python de um dos livros mais aclamados na análise de dados, livro Manual de Análise de Dados dos professores Luiz Paulo Fávero e Patrícia Belfiore.
 
 **Background in:** Python, Pandas, Numpy, Mathplotlib.
 
