@@ -11,12 +11,6 @@
 Esse aqui é um repositório de estudo, básicamente é uma reprodução em python de um dos livros mais aclamados na análise de dados, livro Manual de Análise de Dados dos professores Luiz Paulo Fávero e Patrícia Belfiore.
 
 **Background in:** Python, Pandas, Numpy, Mathplotlib.
-
-Mas nada melhor de ler as explicações desse livro, não esqueça de comprar o link para isso.
-
-Link do livro:
-[Manual de Análise de Dados](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876/ref=asc_df_8535270876/?tag=googleshopp00-20&linkCode=df0&hvadid=379751563849&hvpos=&hvnetw=g&hvrand=12147588813208390255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074273&hvtargid=pla-864709407967&psc=1)
-
 ---
 
 **Contatos:**
