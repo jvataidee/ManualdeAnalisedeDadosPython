@@ -26,5 +26,4 @@ O livro "Manual de Análise de Dados" é altamente recomendado para acompanhar e
 ## Contato
 
 - [Blog](www.joaoataide.com)
-- [LinkedIn](www.linkedin.com)
-- [Medium](medium.com)
+- [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
