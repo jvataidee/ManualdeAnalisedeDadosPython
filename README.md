@@ -1,40 +1,30 @@
+# Manual de Análise de Dados - Python
 
-<p align="center">
-  <img src="banner.png" >
-</p>
+![Project Image](banner.png)
 
-# João Ataíde
-<sub>*Cientista de dados de Imagem Esri*</sub>
+## Sobre o Projeto
 
----
+Este repositório é dedicado à prática de exercícios e exemplos do livro "Manual de Análise de Dados Estatística e Modelagem Multivariada com Excel, SPSS, Stata" dos professores Luiz Paulo Fávero e Patrícia Belfiore, convertidos para Python. É um repositório de estudo, que basicamente reproduz em Python um dos livros mais aclamados na análise de dados.
 
-Esse aqui é um repositório de estudo, básicamente é uma reprodução em python de um dos livros mais aclamados na análise de dados, livro Manual de Análise de Dados dos professores Luiz Paulo Fávero e Patrícia Belfiore.
+## Tecnologias Utilizadas
 
-**Background in:** Python, Pandas, Numpy, Mathplotlib.
+- Python
+- Pandas
+- Numpy
+- Matplotlib
 
-Mas nada melhor de ler as explicações desse livro, não esqueça de comprar o link para isso.
+## Como Começar
 
-Link do livro:
-[Manual de Análise de Dados](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876/ref=asc_df_8535270876/?tag=googleshopp00-20&linkCode=df0&hvadid=379751563849&hvpos=&hvnetw=g&hvrand=12147588813208390255&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074273&hvtargid=pla-864709407967&psc=1)
+1. Clone este repositório
+2. Instale as dependências (Python, Pandas, Numpy, Matplotlib)
+3. Navegue pelos notebooks Jupyter disponíveis para cada capítulo do livro
 
----
+## Recursos
 
-**Contatos:**
-* [Blog](https://www.joaoataide.com)
-* [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
-* [Medium](https://medium.com/@jooataide)
+O livro "Manual de Análise de Dados" é altamente recomendado para acompanhar este repositório. Aqui está o link para compra: [Manual de Análise de Dados](www.amazon.com.br)
 
+## Contato
 
-**Projetos:**
-Veja os projetos publicados no meu blog:
-
-* **Analisar os termos mais frequentes em artigos do COVID-19:**[ Projeto](https://www.joaoataide.com/post/desafio-kaggle-covid-19)
-* **Estimativa de evapotranspiração:**[ Projeto](https://www.joaoataide.com/post/estimativa-da-evapotranspiração)
-* **Análise de ocupação irregular de Linhas de Transmissão:**[ Projeto](https://www.joaoataide.com/post/linhas-de-transmissão)
-* **Vetorização semiautomática de áreas urbanas:** [ Projeto](https://www.joaoataide.com/post/vetorização-semiautomática)
-* **Comparação dos Levantamento Cartográficos Pré e Pós Processado:**[ Projeto](https://www.joaoataide.com/post/pós-e-pré-processados)
----
-
-
-
-
+- [Blog](www.joaoataide.com)
+- [LinkedIn](www.linkedin.com)
+- [Medium](medium.com)
