@@ -12,7 +12,9 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 - Pandas
 - Numpy
 - Matplotlib
+- Seaborn
 - Scipy
+- statistics
 
 ## Capítulos
 - [`cap1_tiposvariaveis_escala_mensuracao_precisao`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap1_tiposvariaveis_escala_mensuracao_precisao.ipynb)
@@ -25,8 +27,8 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 ## Como Começar
 
 1. Clone este repositório
-2. Instale as dependências (Python, Pandas, Numpy, Matplotlib)
-3. Navegue pelos notebooks Jupyter disponíveis para cada capítulo do livro
+2. Instale as dependências (Python, Pandas, Numpy, Matplotlib ... )
+3. Navegue pelos notebooks Jupyter disponíveis para cada capítulo do livro.
 
 ## Recursos
 
