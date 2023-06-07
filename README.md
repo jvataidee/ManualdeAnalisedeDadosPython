@@ -5,7 +5,7 @@
 ## Sobre o Projeto
 
 Este repositório é dedicado à prática de exercícios e exemplos do livro "Manual de Análise de Dados Estatística e Modelagem Multivariada com Excel, SPSS, Stata" dos professores Luiz Paulo Fávero e Patrícia Belfiore, convertidos para Python. É um repositório de estudo, que basicamente reproduz em Python um dos livros mais aclamados na análise de dados.
-
+![Python logo](https://www.python.org/static/img/python-logo.png)
 ## Tecnologias Utilizadas
 
 - Python 3.10.11
