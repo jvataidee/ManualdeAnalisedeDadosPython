@@ -31,8 +31,7 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 
 ## Recursos
 
-O livro "Manual de Análise de Dados" é altamente recomendado para acompanhar este repositório. Aqui está o link para compra: [Manual de Análise de Dados](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876)
-Ou a edição digital [Grupo Gen](https://www.grupogen.com.br/)
+O livro "Manual de Análise de Dados" é altamente recomendado para acompanhar este repositório. Aqui está o link para compra: [Manual de Análise de Dados](https://www.amazon.com.br/Manual-An%C3%A1lise-Dados-Luiz-F%C3%A1vero/dp/8535270876) ou a edição digital [Grupo Gen](https://www.grupogen.com.br/)
 
 ## Contato
 
