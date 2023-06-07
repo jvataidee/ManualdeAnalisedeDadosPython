@@ -21,7 +21,7 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 - [`cap3_estatistica_descritiva_bivariada`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap3_estatistica_descritiva_bivariada.ipynb)
 - [`cap4_introducao_probabilidade`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap4_introducao_probabilidade.ipynb)
 - [`cap5_variavel_aleatori_dist_probabilidade`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap1_tiposvariaveis_escala_mensuracao_precisao.ipynb)
-- [`cap6_estatistica_inferencial`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap6_estatistica_inferencial.ipynb) em produção ...
+- [`cap6_estatistica_inferencial`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap6_estatistica_inferencial.ipynb) *em produção ...*
 
 ## Como Começar
 
