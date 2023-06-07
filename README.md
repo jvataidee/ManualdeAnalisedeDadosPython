@@ -8,13 +8,12 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 
 ## Tecnologias Utilizadas
 
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Scipy
-- statistics
+- Python 3.10.11
+- Pandas 1.5.3
+- Numpy 1.22.4
+- Matplotlib 3.7.1
+- Seaborn 0.12.2
+- Scipy 1.10.1
 
 ## Capítulos
 - [`cap1_tiposvariaveis_escala_mensuracao_precisao`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap1_tiposvariaveis_escala_mensuracao_precisao.ipynb)
