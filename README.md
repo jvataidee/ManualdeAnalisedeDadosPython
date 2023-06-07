@@ -1,6 +1,6 @@
 # Manual de Análise de Dados - Python
 
-![Project Image](banner.png)
+![Project Image](banner.png.png)
 
 ## Sobre o Projeto
 
