@@ -12,6 +12,7 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 - Pandas
 - Numpy
 - Matplotlib
+- Scipy
 
 ## Como Começar
 
