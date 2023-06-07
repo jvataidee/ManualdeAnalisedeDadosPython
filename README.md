@@ -10,12 +10,12 @@ Este repositório é um recurso de estudo valioso que complementa um dos livros 
 
 ## Tecnologias Utilizadas
 
-- ![Python](https://img.shields.io/badge/Python-3.10.11-blue)
-- ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-blue)
-- ![Numpy](https://img.shields.io/badge/Numpy-1.22.4-blue)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.1-blue)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-blue)
-- ![Scipy](https://img.shields.io/badge/Scipy-1.10.1-blue)
+- Python 3.10.11
+- Pandas 1.5.3
+- Numpy 1.22.4
+- Matplotlib 3.7.1
+- Seaborn 0.12.2
+- Scipy 1.10.1
 
 ## Capítulos
 - [`cap1_tiposvariaveis_escala_mensuracao_precisao`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap1_tiposvariaveis_escala_mensuracao_precisao.ipynb)
