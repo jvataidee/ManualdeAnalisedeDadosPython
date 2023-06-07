@@ -20,7 +20,7 @@ Este repositório é dedicado à prática de exercícios e exemplos do livro "Ma
 - `cap3_estatistica_descritiva_bivariada`
 - `cap4_introducao_probabilidade`
 - `cap5_variavel_aleatori_dist_probabilidade`
-- `cap6_estatistica_inferencial` em produção ...
+- [`cap6_estatistica_inferencial`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap6_estatistica_inferencial.ipynb) em produção ...
 
 ## Como Começar
 
