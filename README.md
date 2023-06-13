@@ -16,6 +16,7 @@ Este repositório é um recurso de estudo valioso que complementa um dos livros 
 - Matplotlib 3.7.1
 - Seaborn 0.12.2
 - Scipy 1.10.1
+- Scikit-learn 1.2.2
 
 ## Capítulos
 - [`cap1_tiposvariaveis_escala_mensuracao_precisao`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap1_tiposvariaveis_escala_mensuracao_precisao.ipynb)
