@@ -22,7 +22,7 @@ Este repositório é um recurso de estudo valioso que complementa um dos livros 
 - [`cap2_estatistica_descritiva_univariada`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap2_estatistica_descritiva_univariada.ipynb)
 - [`cap3_estatistica_descritiva_bivariada`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap3_estatistica_descritiva_bivariada.ipynb)
 - [`cap4_introducao_probabilidade`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap4_introducao_probabilidade.ipynb)
-- [`cap5_variavel_aleatori_dist_probabilidade`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap1_tiposvariaveis_escala_mensuracao_precisao.ipynb)
+- [`cap5_variavel_aleatori_dist_probabilidade`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap5_variavel_aleatori_dist_probabilidade.ipynb)
 - [`cap6_estatistica_inferencial`](https://github.com/jvataidee/ManualdeAnalisedeDadosPython/blob/master/cap6_estatistica_inferencial.ipynb) *em produção ...*
 
 ## Como Começar
